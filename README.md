@@ -1,2 +1,2 @@
-# BOCS_Project_1.1
-In this we have created the chips of different types
+# BOCS_Project
+In this folder you'll find all the assignments of bocs in the first semester!
